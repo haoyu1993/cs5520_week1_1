@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/discover"
+        android:title="Discover People"/>
+    <item android:id="@+id/Message"
+        android:title="Message"/>
+    <item android:id="@+id/Friends"
+        android:title="Friends"/>
+    <item android:id="@+id/Profile"
+        android:title="Profile"/>
+    <item android:id="@+id/Group"
+        android:title="Group"/>
+    <item android:id="@+id/Notifications"
+        android:title="Notifications"/>
+    <item android:id="@+id/Menu"
+        android:title="Menu"/>
+
+
+</menu>
